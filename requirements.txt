@@ -1,0 +1,11 @@
+# Core libraries
+numpy
+opencv-python
+PyYAML
+
+# Optional utilities
+matplotlib
+pandas
+ultralytics
+pillow
+scikit-learn

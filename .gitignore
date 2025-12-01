@@ -1,1 +1,27 @@
-data/
+# Python cache and compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment / conda
+env/
+venv/
+Miniforge3-Linux-x86_64.sh
+*.conda
+*.env
+*.egg-info/
+
+*.db3
+*.pgm
+*.yaml
+
+# YOLO weights (large files)
+yolov8n.pt
+yolov8m.pt
+*.pt
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp

@@ -1,9 +1,7 @@
-# Core libraries
+# ROS2_python dependencies have been installed
 numpy
 opencv-python
 PyYAML
-
-# Optional utilities
 matplotlib
 pandas
 ultralytics
